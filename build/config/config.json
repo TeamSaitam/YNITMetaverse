@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x102f1c44bcc926479888d0a1165ee08f4cf22bff",
+  "SCAN_LINK": "https://polygonscan.com/token/0x102f1c44bcc926479888d0a1165ee08f4cf22bff",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "YNITMetaverse",
+  "SYMBOL": "YNITM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ynitmetaverse",
+  "SHOW_BACKGROUND": true
+}
